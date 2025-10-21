@@ -5,11 +5,10 @@
 - Commit 1
 - Commit 2
 - Commit 3
-- Commit 4
 
-# Boiyee says Hello
+# Boiyee says Hi
 
 # Sometimes you just have to observe
 # Sometimes eat
 # Sometimes silent
-# Sometimes return feelings at the same velocity it came at you
+# Sometimes return feelings at the same velocity it came
