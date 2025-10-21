@@ -2,4 +2,6 @@
 
 # Testing git through GUI (Graphical User Interface)
 
-# main
+- Commit 1
+- Commit 2
+- Commit 3
