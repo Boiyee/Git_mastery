@@ -8,7 +8,7 @@
 
 # Boiyee says Hi
 
-# Sometimes you just have to observe
-# Sometimes eat
-# Sometimes silent
-# Sometimes return feelings at the same velocity it came
+# Sometimes you just have to observe;
+# Sometimes eat;
+# Sometimes silent;
+# Sometimes return feelings at the same velocity it came.
